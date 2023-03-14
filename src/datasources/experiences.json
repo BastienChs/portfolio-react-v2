@@ -1,0 +1,102 @@
+[
+    {
+      "company": "Human Immobilier",
+      "company_logo": "assets/img/companies/Human Immobilier.jpg",
+      "start_date": "2017-10-01",
+      "end_date": "2020-08-02",
+      "job_title": ".NET Developer",
+      "job_location" : "Bordeaux, France",
+      "contract_type": "Work-study contract",
+      "job_description": "Application of the concepts learned in class, application maintenance and development of new features on the company's main tool. Learning and application of business knowledge. Participated in the transition of an important tool from VB to .NET framework.",
+      "skills_involved" : {
+      "technologies" : [
+          "C#",
+          "JavaScript",
+          "T-SQL",
+          "XAML"
+        ],
+        "frameworks" : [
+          ".NET Framework",
+          "Bootstrap",
+          "Razor"
+        ],
+        "sgbd" : [
+          "SQL Server"
+        ],
+        "tools" : [
+        ],
+        "vcs" : [
+          "SVN",
+          "TFS"
+        ]
+      }
+    },
+    {
+      "company": "Human Immobilier",
+      "company_logo": "assets/img/companies/Human Immobilier.jpg",
+      "start_date": "2020-08-02",
+      "end_date": "2021-08-01",
+      "job_title": ".NET Developer",
+      "job_location" : "Bordeaux, France",
+      "contract_type": "Permanent contract",
+      "job_description": "Realization of missions related to rental management, including the creation of automatic tasks in order to carry out critical operations such as: withdrawals, transfers, management report. Production of documents for clients: rent calls, rent receipts, invoices.",
+      "skills_involved" : {
+        "technologies" : [
+          "C#",
+          "JavaScript",
+          "T-SQL",
+          "XAML"
+        ],
+        "frameworks" : [
+          ".NET Framework",
+          "Bootstrap",
+          "Razor"
+        ],
+        "sgbd" : [
+          "SQL Server"
+        ],
+        "tools" : [
+        ],
+        "vcs" : [
+          "SVN",
+          "TFS"
+        ]
+      }
+    },
+    {
+      "company": "Guarani",
+      "company_logo": "assets/img/companies/Guarani.jpg",
+      "start_date": "2021-08-31",
+      "end_date": "2022-07-31",
+      "job_title": ".NET Developer",
+      "job_location" : "Bordeaux, France",
+      "contract_type": "Permanent contract",
+      "job_description": "Consulting mission at Cdiscount in the logistics sector. Maintenance of the existing system, monitoring of critical applications during production delivery and busy periods (cf: blackfriday, christmas,...), development of new features, migration of assets to .NET6.",
+      "skills_involved" : {
+        "technologies" : [
+          "C#",
+          "JavaScript",
+          "T-SQL"
+        ],
+        "frameworks" : [
+          ".NET Framework",
+          ".NET 5",
+          ".NET 6",
+          "React"
+        ],
+        "sgbd" : [
+          "SQL Server"
+        ],
+        "tools" : [
+          "Azure DevOps",
+          "Dynatrace",
+          "Grafana",
+          "ElascticSearch"
+        ],
+        "vcs" : [
+          "Git",
+          "TFS"
+        ]
+      }
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "project_name": "Spotiboard",
+    "project_image": "assets/img/works/Spotiboard.jpg",
+    "project_image_credit":"Photo de <a href=\"https://unsplash.com/fr/@fhavlik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Filip</a> sur <a href=\"https://unsplash.com/fr/photos/VHf4jqrUu7g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n",
+    "project_description": "This project purpose is to use Spotify API to list top 20 favorite user tracks and display them in a nice way.",
+    "project_link": "/",
+    "project_github_link": "https://github.com/BastienChs/spotiboard",
+    "project_tags": [
+      "React",
+      "TailwindCSS",
+      "Recharts",
+      "Axios",
+      "Colr",
+      "Spotify API"
+    ],
+    "project_date": "2020-11-11"
+  },
+    {
+        "project_name": "Calculator",
+        "project_image":  "assets/img/works/Calculator.jpg",
+        "project_image_credit": "Photo de <a href=\"https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Kelly Sikkema</a> sur <a href=\"https://unsplash.com/fr/photos/3-Tc_5LROrM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n",
+        "project_description": "This project is a way for me to use the things I've learned about React and use it in a practical way through the creation of simple yet complex tool: Calculator.",
+        "project_link": "/",
+        "project_github_link": "https://github.com/BastienChs/calculator",
+        "project_tags": [
+        "React"
+        ],
+        "project_date": "2020-11-09"
+    },
+    {
+        "project_name": "Portfolio",
+        "project_image": "assets/img/works/Portfolio.png",
+        "project_image_credit":"",
+        "project_description": "A portfolio made with React and TailwindCSS.",
+        "project_link": "/",
+        "project_github_link": "https://github.com/BastienChs/portoflio-react",
+        "project_tags": [
+        "React",
+        "TailwindCSS"
+        ],
+        "project_date": "2020-11-20"
+    }
+]

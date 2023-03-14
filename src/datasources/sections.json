@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "label": "Home",
+    "anchor": "hero-section",
+    "order": 1
+  },
+  "about": {
+    "title": "About me",
+    "label": "About",
+    "anchor": "about-section",
+    "order": 2
+  },
+  "works": {
+    "title": "My works",
+    "label": "Works",
+    "anchor": "works-section",
+    "order": 3
+  },
+  "experiences": {
+    "title": "My experiences",
+    "label": "Experiences",
+    "anchor": "experiences-section",
+    "order": 4
+  },
+    "contact": {
+        "title": "Contact me",
+        "label": "Contact",
+        "anchor": "contact-section",
+        "order": 5
+    }
+}
