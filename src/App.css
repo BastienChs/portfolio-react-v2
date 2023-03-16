@@ -1,31 +1,4 @@
-.dark-blue-bg {
-  background-color: #22577A;
-}
-.blue-bg {
-    background-color: #38A3A5;
-}
-.green-2-bg {
-  background-color: #57CC99;
-}
-.green-1-bg {
-  background-color: #80ED99;
-}
-.light-green-bg {
-  background-color: #C7F9CC;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-.dark-blue-color {
-  color: #22577A;
-}
-.blue-color {
-  color: #38A3A5;
-}
-.green-2-color {
-  color: #57CC99;
-}
-.green-1-color {
-  color: #80ED99;
-}
-.light-green-color {
-  color: #C7F9CC;
-}

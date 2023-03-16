@@ -44,7 +44,7 @@
     width: 100%;
     text-align: center;
 }
-#hero-text h1,h2{
+#hero-text h2{
     color: white;
     font-size: 1.5rem;
     font-weight: 700;
@@ -60,20 +60,7 @@
     text-align: center;
     margin-top: 50px;
 }
-#hero-call-to-action button{
-    font-size: 0.8em;
-    width: auto;
-    display: inline-block;
-    margin: 0px 5px;
-    padding: 10px;
-    background-color: #22577A;
-    text-transform: uppercase;
-}
 
-#hero-call-to-action button:hover{
-    background-color: #2773a8;
-    transition: all 0.3s ease-in-out;
-}
 
 .fade-in {
     transition: opacity 1s ease;
