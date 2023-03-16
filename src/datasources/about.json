@@ -1,0 +1,38 @@
+{
+  "skills": [
+    {
+      "label": "C#",
+      "value": 4
+    },
+    {
+      "label": "TSQL",
+      "value": 4
+    },
+    {
+      "label": "ReactJS",
+      "value": 3
+    },
+    {
+      "label": "JS",
+        "value": 3
+    },
+    {
+      "label": "Python",
+        "value": 2
+    }
+  ],
+  "tools": [
+    "Visual Studio",
+    "Visual Studio Code",
+    "JetBrains WebStorm",
+    "SQL Server Management Studio",
+    "Azure pipelines",
+    "Grafana",
+    "Elasticsearch",
+    "Jira",
+    "Confluence",
+    "Git",
+    "TFS",
+    "SonarQube"
+  ]
+}
