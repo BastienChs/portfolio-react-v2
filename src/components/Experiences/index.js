@@ -19,9 +19,7 @@ const Experiences = () => {
         const typed = new Typed(writingChapter.current, {
             strings: ['Collecting stardust...', 'Collecting unicorn hair...', 'Collecting dragon scales...', 'Collecting phoenix feathers...', 'Collecting mermaid tears...', 'Collecting fairy dust...'],
             typeSpeed: 60,
-            loop: true,
-            onComplete: (self) => {
-            }
+            loop: true
         });
         return () => {
             // Destroy Typed instance during cleanup to stop animation

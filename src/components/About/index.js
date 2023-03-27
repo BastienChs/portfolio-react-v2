@@ -41,9 +41,9 @@ const About = () => {
                 <div id={'global-info'} className={'p-5'}>
                     <h3 className={'text-center font-oswald text-6xl mt-2 text-gray-200'}>- About me</h3>
                     <ul id={'global-info-categories'} className={'text-gray-200 pl-2 pr-2'}>
-                        <li className={'selected pl-2 pr-2'} onClick={onClickInfoCategory} keyindex={0}>Info</li>
-                        <li className={'pl-2 pr-2'} onClick={onClickInfoCategory} keyindex={1}>Hobbies</li>
-                        <li className={'pl-2 pr-2'} onClick={onClickInfoCategory} keyindex={2}>Fun facts</li>
+                        <li className={'selected pl-2 pr-2'} onClick={onClickInfoCategory}>Info</li>
+                        <li className={'pl-2 pr-2'} onClick={onClickInfoCategory}>Hobbies</li>
+                        <li className={'pl-2 pr-2'} onClick={onClickInfoCategory}>Fun facts</li>
                     </ul>
                     <div id={'global-info-content'} className={'h-40 relative overflow-x-hidden'}>
                         <p className={'info-text text-gray-300 absolute'}>Hello, I'm Bastien! I work as a <span className={'keyword'}>software engineer for five years</span> now,
