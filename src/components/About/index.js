@@ -45,7 +45,7 @@ const About = () => {
                         <li className={'pl-2 pr-2'} onClick={onClickInfoCategory} keyindex={1}>Hobbies</li>
                         <li className={'pl-2 pr-2'} onClick={onClickInfoCategory} keyindex={2}>Fun facts</li>
                     </ul>
-                    <div id={'global-info-content'} className={'h-40 relative'}>
+                    <div id={'global-info-content'} className={'h-40 relative overflow-x-hidden'}>
                         <p className={'info-text text-gray-300 absolute'}>Hello, I'm Bastien! I work as a <span className={'keyword'}>software engineer for five years</span> now,
                             more than just a job, it's a passion to me. I love solving problems and learning how things work, being challenged whether by time,
                             technology or business complexity. I like to keep an eye on the IT innovations and topics, for this I like to use tools such as Medium,

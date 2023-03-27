@@ -2,9 +2,10 @@
     {
       "company": "Human Immobilier",
       "company_logo": "assets/img/companies/Human Immobilier.jpg",
+      "company_website": "https://www.human-immobilier.fr/",
       "start_date": "2017-10-01",
       "end_date": "2020-08-02",
-      "job_title": ".NET Developer",
+      "position": ".NET Developer",
       "job_location" : "Bordeaux, France",
       "contract_type": "Work-study contract",
       "job_description": "Application of the concepts learned in class, application maintenance and development of new features on the company's main tool. Learning and application of business knowledge. Participated in the transition of an important tool from VB to .NET framework.",
@@ -34,9 +35,10 @@
     {
       "company": "Human Immobilier",
       "company_logo": "assets/img/companies/Human Immobilier.jpg",
+        "company_website": "https://www.human-immobilier.fr/",
       "start_date": "2020-08-02",
       "end_date": "2021-08-01",
-      "job_title": ".NET Developer",
+      "position": ".NET Developer",
       "job_location" : "Bordeaux, France",
       "contract_type": "Permanent contract",
       "job_description": "Realization of missions related to rental management, including the creation of automatic tasks in order to carry out critical operations such as: withdrawals, transfers, management report. Production of documents for clients: rent calls, rent receipts, invoices.",
@@ -66,9 +68,10 @@
     {
       "company": "Guarani",
       "company_logo": "assets/img/companies/Guarani.jpg",
+      "company_website": "https://www.guarani.fr",
       "start_date": "2021-08-31",
       "end_date": "2022-07-31",
-      "job_title": ".NET Developer",
+      "position": ".NET Developer",
       "job_location" : "Bordeaux, France",
       "contract_type": "Permanent contract",
       "job_description": "Consulting mission at Cdiscount in the logistics sector. Maintenance of the existing system, monitoring of critical applications during production delivery and busy periods (cf: blackfriday, christmas,...), development of new features, migration of assets to .NET6.",
@@ -98,5 +101,33 @@
           "TFS"
         ]
       }
+    },
+  {
+    "company": "Klanik",
+    "company_logo": "assets/img/companies/Klanik.jpg",
+    "company_website": "https://www.klanik.com",
+    "start_date": "2021-10-01",
+    "end_date": "",
+    "position": "Fullstack Developer",
+    "job_location" : "Montreal, QC, Canada",
+    "contract_type": "VIE",
+    "job_description": "I'm currently writing this chapter of my career...",
+    "skills_involved" : {
+      "technologies" : [
+
+      ],
+      "frameworks" : [
+
+      ],
+      "sgbd" : [
+
+      ],
+      "tools" : [
+
+      ],
+      "vcs" : [
+
+      ]
     }
+  }
 ]
