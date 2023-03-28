@@ -6,6 +6,7 @@ import SkillsStars from "./SkillsStars";
 import about from "../../datasources/about.json";
 
 const About = () => {
+
     const [indexToDisplay, setIndexToDisplay] = useState(0)
     useEffect(() => {
         let textToDisplay = document.querySelectorAll('#global-info .info-text')
